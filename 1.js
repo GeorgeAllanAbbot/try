@@ -16,7 +16,7 @@ function createNode() {
     e_4.setAttribute("controls", "controls");
     e_4.setAttribute("loop", "loop");
     e_4.setAttribute("preload", "auto");
-    e_4.setAttribute("src", "http://m10.music.126.net/20230112161937/f969b4292172fb497d42a29eb27245f2/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/14054750108/e6b6/3c8a/3540/5498cd4e67997da120670cdc5b021927.mp3");
+    e_4.setAttribute("src", "https://cdn.jsdelivr.net/gh/GeorgeAllanAbbot/try/1.mp3");
     e_4.appendChild(document.createTextNode("\n你的浏览器版本太低，不支持audio标签\n"));
     e_0.appendChild(e_4);
     var e_5 = document.createElement("style");
