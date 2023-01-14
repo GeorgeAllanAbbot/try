@@ -20,8 +20,8 @@ function writeHTMLasJS(){
     document.write("      });<\/script>");
     document.write("    <meta name=\"description\" content=\"This is Allan\">");
     document.write("    <meta name=\"keywords\" content=\"主页,博客\">");
-    document.write("    <link rel=\"stylesheet\" type=\"text\/css\" href=\"https:\/\/cdn.jsdelivr.net\/gh\/GeorgeAllanAbbot\/try\/1.css\">");
-    document.write("    <link rel=\"stylesheet\" type=\"text\/css\" href=\"https:\/\/cdn.jsdelivr.net\/gh\/GeorgeAllanAbbot\/try\/2.css\">");
+    document.write("    <link rel=\"stylesheet\" type=\"text\/css\" href=\"https:\/\/cdn.jsdelivr.net\/gh\/GeorgeAllanAbbot\/try@main\/1.css\">");
+    document.write("    <link rel=\"stylesheet\" type=\"text\/css\" href=\"https:\/\/cdn.jsdelivr.net\/gh\/GeorgeAllanAbbot\/try@main\/2.css\">");
     document.write("    <link rel=\"icon\" href=\"https:\/\/i.postimg.cc\/rFGC6B2H\/favicon.png\">");
     document.write("    <style>");
     document.write("        .hans-container{");
